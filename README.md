@@ -1,4 +1,4 @@
-### Coding and supporting open source communiy since 1999
+### Coding my life away since 1999
 
 - 🔭 I’m currently working on a lot stuff, but mostly on [wildjar](https://wildjar.com) stuff
 - 💬 Ask me about anything really, but I doubt I'll reply quickly
